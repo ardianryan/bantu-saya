@@ -2,3 +2,4 @@ Collaboration milestone 3
 Collaboration milestone 4
 Collaboration milestone 5
 Collaboration milestone 6
+Collaboration milestone 7
